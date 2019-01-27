@@ -1,3 +1,9 @@
+Please ensure you have activated the virtual environment to run this project
+
+source venv/bin/activate
+
+
+
 This project contains a working django application where, eventually, users would be able to search for and store videos from
 boilerroom. It currently consists of only two views, which are not implemented - localhost/boilerroomyoutube/, where the 
 view allowing users to upload videos would exist, and the default admin page.
